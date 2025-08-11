@@ -6,7 +6,7 @@ Usage:
   notes.py add "Title" "body text" [--tags tag1,tag2]
   notes.py list [--tag TAG]
   notes.py show ID
-  notes.py search "query"
+  notes.py search "quey"
   notes.py delete ID
   notes.py export-md ID > note.md
 """
