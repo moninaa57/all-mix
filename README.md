@@ -11,7 +11,7 @@ Usage:
   notes.py export-md ID > note.md
 """
 
-import argpa
+import argpars
 import sqlite3
 import os
 import datetime
