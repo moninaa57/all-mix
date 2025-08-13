@@ -1,6 +1,6 @@
 
 # simple_weather.py
-import 
+import random
 import time
 
 # List of sample cities and weather conditions
